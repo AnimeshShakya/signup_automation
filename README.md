@@ -1,3 +1,14 @@
+## 📁 Project Contents
+- `automation_script.py` – Main automation script
+- `README.md` – Setup and usage instructions
+- `test_report.pdf` – Sample test run report
+- `demo_video.mp4` – demo video of script execution
+
+
+# Environment/setup
+#
+#
+#
 # Selenium Automation Setup Guide
 
 This README will guide you through setting up and running the Selenium automation script for registering on the authorized partner website.
@@ -117,8 +128,11 @@ file_inputs[1].send_keys("/path/to/your/sample2.pdf")
 
 Modify the `data` dictionary in the script with your information:
 
-##  Running the Script
-
+##  How to run the script
+#
+#
+#
+#
 ### Basic Execution
 
 1. Navigate to the script directory:
@@ -138,6 +152,11 @@ Modify the `data` dictionary in the script with your information:
    python automation_script.py
    ```
 
+# Any test data or accounts used
+#
+#
+#
+# credentials.json file contains test data
 
 ## 🔧 Common Issues and Solutions
 
